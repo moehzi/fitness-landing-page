@@ -1,0 +1,24 @@
+{
+  "name": "fitness-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/style.css -o ./dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moehzi/fitness-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moehzi/fitness-landing-page/issues"
+  },
+  "homepage": "https://github.com/moehzi/fitness-landing-page#readme"
+}
